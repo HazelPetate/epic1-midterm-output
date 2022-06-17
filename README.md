@@ -1,3 +1,4 @@
+### 👋 Hi!
 # Mandala Art
 
 ### 
